@@ -3,7 +3,7 @@ function CC() {
         <section className="pt-12 pb-4">
         <div className="flex flex-col items-center text-center gap-2">
             <p className="manrope font-thin text-sm text-white">
-                made with curiosity & caffeine ☕
+                made with caffeine ☕
             </p>
 
             <p className="manrope font-thin text-xs text-white">
