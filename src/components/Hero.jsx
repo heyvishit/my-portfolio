@@ -120,8 +120,6 @@ function Hero() {
       </div>
 
       {/* Spotify Status Bar */}
-
-      {/* Spotify Status Bar */}
       <div className="mt-3 max-w-sm">
         {track ? (
           <a
