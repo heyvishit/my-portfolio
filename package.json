@@ -12,6 +12,7 @@
   "dependencies": {
     "@icons-pack/react-simple-icons": "^13.15.1",
     "@tailwindcss/vite": "^4.3.3",
+    "@vercel/analytics": "^2.0.1",
     "lucide-react": "^1.73.0",
     "react": "^19.2.8",
     "react-activity-calendar": "^3.2.1",
