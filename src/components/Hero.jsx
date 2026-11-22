@@ -63,7 +63,7 @@ function Hero() {
         <img
           src="/profile.jpg"
           alt="Vishit Bari"
-          className="h-20 w-20 rounded-sm border border-dashed border-gray-400 object-cover"
+          className="h-22 w-22 rounded-sm border border-dashed border-gray-400 object-cover"
         />
 
         <div>
