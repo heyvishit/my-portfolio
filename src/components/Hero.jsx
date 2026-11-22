@@ -57,7 +57,7 @@ function Hero() {
   }, []);
 
   return (
-    <section className="flex flex-col justify-start gap-3 pt-12">
+    <section className="flex flex-col justify-start gap-3 pt-2">
       {/* Profile Image + Name */}
       <div className="flex items-center gap-4">
         <img
