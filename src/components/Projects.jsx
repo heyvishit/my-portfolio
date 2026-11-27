@@ -14,12 +14,12 @@ function Projects() {
       {/* PROJECT GRID */}
       <div className="mt-8 grid grid-cols-1 gap-5 md:grid-cols-2">
 
-        {/* PROJECT CARD 1 */}
+        {/* PROJECT CARD 2 */}
         <div className="overflow-hidden rounded-sm border border-dashed border-gray-400">
 
           {/* PROJECT IMAGE */}
           <img
-            src="/projects/project-one.png"
+            src="/projects/project-two.png"
             alt="Project One preview"
             className="h-44 w-full object-cover"
           />
